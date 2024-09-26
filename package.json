@@ -21,7 +21,7 @@
     "csurf": "^1.11.0",
     "dotenv": "^16.4.5",
     "ejs": "^3.1.10",
-    "express": "^4.19.2",
+    "express": "^4.21.0",
     "express-session": "^1.18.0",
     "helmet": "^7.1.0",
     "mongoose": "^8.5.2",
